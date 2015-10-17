@@ -11,6 +11,7 @@ Just put the files where your @INC could read them. ;)
 
 ## Usage
 
+```perl
 use strict;
 use warnings;
 
@@ -34,6 +35,7 @@ sub blah {
 }
 
 1;
+```
 
 ## Run tests
 
